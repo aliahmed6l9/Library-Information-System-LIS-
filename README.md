@@ -294,17 +294,17 @@ This project demonstrates understanding of:
 | 004381 | M Taha Amir | Database Design |
 | 004346 | Danish Ali | Schema Development |
 | 004362 | Ali Ahmed | Data Population |
-| 004369 | Abdu Ahad Bahir | Query Development |
+| 004369 | Abdul Ahad Bahir | Query Development |
 
 ---
 
 ## 🎓 Course Information
 
-**Course:** Introduction to Database Systems  
+**Course:** Introduction to Database Systems (IDS) 
 **Project:** Library Information System (LIS)  
-**Semester:** Fall 2025  
-**Department:** Computer Science  
-**University:** *(Add University Name)*
+**Semester:** Fall 2025 (4th Semester)  
+**Department:** Software Wngineering  
+**University:** *International Islamic University Islamabad*
 
 ---
 
