@@ -96,42 +96,11 @@ The database consists of the following major entities:
 
 ---
 
-## 🔗 Entity Relationship Diagram (ERD)
+## 🔗 Entity Relationship Diagram (EERD)
 
-### ERD Placeholder
+### EERD Screenshot
 
-
-```text
-+-----------+
-|  Members  |
-+-----------+
-      |
-      |
-      v
-+--------------------+
-| Borrow_Transaction |
-+--------------------+
-      |
-      |
-      v
-+------------+
-| Book_Copy  |
-+------------+
-      |
-      |
-      v
-+---------+
-|  Books  |
-+---------+
-   /   \
-  /     \
- v       v
-Author  Publisher
-```
-
-### ERD Screenshot
-
-<h2>🔗 Entity Relationship Diagram (ERD)</h2>
+<h2>🔗 Entity Relationship Diagram (EERD)</h2>
 
 <p align="center">
   <img src="Screenshots/Library%20Information%20System%20(LIS)%20EER%20Diagram.jpeg" width="900">
