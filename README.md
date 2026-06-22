@@ -114,6 +114,9 @@ The database consists of the following major entities:
 Library-Information-System-DB/
 │
 ├── README.md
+├── Repository.txt
+├── Requirements.txt
+├── .gitignore
 ├── Schema_Design.sql
 ├── Data_Population.sql
 ├── Business_Queries.sql
