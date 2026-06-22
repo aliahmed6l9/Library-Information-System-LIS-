@@ -1,0 +1,23 @@
+Library-Information-System-DB/
+│
+├── README.md
+├── Repository.txt
+├── Requirements.txt
+├── .gitignore
+├── Schema_Design.sql
+├── Data_Population.sql
+├── Business_Queries.sql
+│
+└── Screenshots/
+    ├── 3NF Relational Schema.png
+    ├── Library Information System (LIS) EER Diagram.jpeg
+    ├── Query 1.png
+    ├── Query 2.png
+    ├── Query 3.png
+    ├── Query 4.png
+    ├── Query 5.png
+    ├── Query 6.png
+    ├── Query 7.png
+    ├── Query 8.png
+    ├── Query 9.png
+    └── Query 10.png

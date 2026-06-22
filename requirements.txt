@@ -1,0 +1,29 @@
+Library Information System (LIS)
+
+Requirements
+
+Database Management System:
+- MySQL 8.0 or later
+- Oracle XE
+- Microsoft SQL Server Express
+
+Tools:
+- MySQL Workbench
+- SQL Developer
+- SQL Server Management Studio (SSMS)
+
+Execution Order
+
+1. Run Schema_Design.sql
+2. Run Data_Population.sql
+3. Run Business_Queries.sql
+
+Project Features
+
+- Member Management
+- Book Management
+- Author Management
+- Publisher Management
+- Borrow Transactions
+- Fine Management
+- Reporting and Analytics
