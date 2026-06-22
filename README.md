@@ -113,7 +113,7 @@ The database consists of the following major entities:
 ```text
 Library-Information-System-DB/
 │
-├── README.md
+├── Readme.md
 ├── Repository.txt
 ├── Requirements.txt
 ├── .gitignore
