@@ -272,9 +272,9 @@ This project demonstrates understanding of:
 | Student ID |Names | Role |
 |------------|------|------|
 | 004381 | M Taha Amir | Database Design |
-| 004346 | Danish Ali | Schema Development |
+| 004369 | Abdul Ahad Bahir | Schema Development |
 | 004362 | Ali Ahmed | Data Population |
-| 004369 | Abdul Ahad Bahir | Query Development |
+| 004346 | Danish Ali | Query Development |
 
 ---
 
