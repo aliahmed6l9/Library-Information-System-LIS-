@@ -100,7 +100,6 @@ The database consists of the following major entities:
 
 ### ERD Placeholder
 
-Insert your final ERD diagram here.
 
 ```text
 +-----------+
