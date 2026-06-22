@@ -131,9 +131,11 @@ Author  Publisher
 
 ### ERD Screenshot
 
-```markdown
-![ERD Diagram](Screenshots/Library Information System (LIS) EER Diagram.jpeg)
-```
+<h2>🔗 Entity Relationship Diagram (ERD)</h2>
+
+<p align="center">
+  <img src="Screenshots/Library%20Information%20System%20(LIS)%20EER%20Diagram.jpeg" width="900">
+</p>
 
 ---
 
